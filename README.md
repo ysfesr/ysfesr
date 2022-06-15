@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **about Google Cloud Platform and Microsoft Azure**
 
-- 📫 How to reach me **youssef.elassery@gmail.com**
+- 📫 How to reach me **joseph.elasery@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3wH5wNr](https://bit.ly/3wH5wNr)
 
