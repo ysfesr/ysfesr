@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/ZNfVCnS/Hi-i-am.png"  width="95%" height="50%" class="center">
-
 I am a cloud and DevOps engineer with a passion for designing and implementing scalable, reliable, and secure cloud-based solutions. I have developed a deep understanding of cloud technologies, as well as expertise in automation, infrastructure-as-code, and continuous integration and deployment (CI/CD) pipelines.
 
 ### 🌐 Connect with me:
