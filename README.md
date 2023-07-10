@@ -1,4 +1,4 @@
-I am a cloud and DevOps engineer with a passion for designing and implementing scalable, reliable, and secure cloud-based solutions. I have developed a deep understanding of cloud technologies, as well as expertise in automation, infrastructure-as-code, and continuous integration and deployment (CI/CD) pipelines.
+I am a Data and DevOps engineer with a passion for designing and implementing scalable, reliable, and secure cloud-based solutions. I have developed a deep understanding of cloud technologies, as well as expertise in automation, infrastructure-as-code, and continuous integration and deployment (CI/CD) pipelines.
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-elasery) 
