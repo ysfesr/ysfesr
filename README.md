@@ -13,5 +13,5 @@ I am a DevOps engineer with a passion for designing and implementing scalable, r
 ![](https://github-readme-stats.vercel.app/api?username=ysfesr&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ### 🎖️ Professional certificates
-<img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="Terraform" style="width:200px;"/> <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure" style="width:200px;"/>
-<img src="https://i.ibb.co/SyZchCc/OCIDOP2023-OPN.png" alt="DevOps" style="width:200px;"/>
+<img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="Terraform" style="width:150px;"/> <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure" style="width:150px;"/>
+<img src="https://i.ibb.co/SyZchCc/OCIDOP2023-OPN.png" alt="DevOps" style="width:150px;"/>
