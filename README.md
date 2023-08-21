@@ -11,3 +11,7 @@ I am a DevOps engineer with a passion for designing and implementing scalable, r
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ysfesr&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+### 🎖️ Professional certificates
+<img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="Terraform" style="width:200px;"/> <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure" style="width:200px;"/>
+<img src="https://i.ibb.co/SyZchCc/OCIDOP2023-OPN.png" alt="DevOps" style="width:200px;"/>
