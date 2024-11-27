@@ -13,3 +13,5 @@ I am a DevOps engineer with a passion for designing and implementing scalable, r
 ### 🎖️ Professional certificates
 <img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="Terraform" style="width:150px;"/> <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure" style="width:150px;"/>
 <img src="https://i.ibb.co/SyZchCc/OCIDOP2023-OPN.png" alt="DevOps" style="width:150px;"/>
+<img src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="DevOps" style="width:150px;"/>
+
